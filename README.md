@@ -69,8 +69,8 @@ or
 
 Reach out to me at one of the following places!
 
-- Website at <a href="https://izemspot.netlify.com" target="_blank">`izemspot.netlify.com`</a>
-- Gmail <a href="mailto:zmr.ilyas@gmail.com" target="_blank">`zmr.ilyas@gmail.com`</a>
+- Website at 
+- Gmail 
 
 
 
